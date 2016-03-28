@@ -1,0 +1,6 @@
+name: KitSQL
+main: com.tadahtech.kitsql.KitSQL
+version: 1.0.0-SNAPSHOT
+commands:
+  kitsql:
+    description: Retrieve the information for a player
